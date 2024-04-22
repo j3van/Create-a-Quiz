@@ -1,0 +1,12 @@
+html {
+  background-color: white;
+}
+
+body {
+  width: 600px;
+  padding: 50px;
+  margin: auto;
+  color: black;
+  border-radius: 100px;
+  border-color: black;
+}
